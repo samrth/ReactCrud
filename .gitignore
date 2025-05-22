@@ -1,0 +1,16 @@
+# Ignore all node_modules in frontend or backend
+**/node_modules/
+
+# Ignore logs
+npm-debug.log*
+yarn-debug.log*
+
+# Ignore build output
+frontend/build/
+backend/dist/
+
+# OS + editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

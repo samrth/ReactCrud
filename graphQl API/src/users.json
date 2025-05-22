@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "name": "Alice",
+    "email": "alice@gmail.com",
+    "role": "admin"
+  },
+  {
+    "id": "2",
+    "name": "Test Data",
+    "email": "testdata@example.com",
+    "role": "admin"
+  },
+  {
+    "id": "3",
+    "name": "Joey singh",
+    "email": "joey@example.com",
+    "role": "admin"
+  },
+  {
+    "id": "4",
+    "name": "John Doe",
+    "email": "john@example.com",
+    "role": "admin"
+  },
+  {
+    "id": "5",
+    "name": "Clementine Bauch",
+    "email": "Nathan@yesenia.net",
+    "role": "user"
+  },
+  {
+    "id": "6",
+    "name": "Tennis Beach",
+    "email": "tennis@example.com",
+    "role": "User"
+  },
+  {
+    "id": "7",
+    "name": "Newman king",
+    "email": "newman@example.com",
+    "role": "Admin"
+  },
+  {
+    "id": "8",
+    "name": "Taylor king",
+    "email": "taylor@gmail.com",
+    "role": "user"
+  },
+  {
+    "id": "10",
+    "name": "newtest",
+    "email": "test@gmail.com",
+    "role": "Product manager"
+  }
+]
