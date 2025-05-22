@@ -10,11 +10,13 @@ This is a full-stack CRUD application built using:
 
 ## Project Structure
 
+```plaintext
 React_GraphQL_Crud/
-├── react-crud/ # React application
-├── graphQL API/ # Apollo GraphQL API server
+├── frontend/       # React application
+├── backend/        # Apollo GraphQL API server
 ├── README.md
-├── .gitignore
+└── .gitignore
+
 
 ## Getting Started
 
